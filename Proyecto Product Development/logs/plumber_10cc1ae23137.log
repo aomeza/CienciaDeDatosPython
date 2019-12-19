@@ -1,0 +1,94 @@
+INFO [2019-12-18 20:37:02] user_admin /predict "PostmanRuntime/7.21.0" 2019-12-18 20:37:02 "6" 200
+INFO [2019-12-18 20:37:12] user_admin /predict "PostmanRuntime/7.21.0" 2019-12-18 20:37:12 "5" 200
+INFO [2019-12-18 20:37:20] user_admin /predict "PostmanRuntime/7.21.0" 2019-12-18 20:37:20 "Model does not exits" 400
+INFO [2019-12-18 20:37:28] user_admin /predict "PostmanRuntime/7.21.0" 2019-12-18 20:37:28 "6" 200
+INFO [2019-12-18 20:43:09] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:43:09 "All batchdata parameters have to be numeric or integers" 400
+INFO [2019-12-18 20:45:10] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:10 "6" 200
+INFO [2019-12-18 20:45:10] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:10 "6" 200
+INFO [2019-12-18 20:45:10] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:10 "6" 200
+INFO [2019-12-18 20:45:15] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:15 "5" 200
+INFO [2019-12-18 20:45:15] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:15 "5" 200
+INFO [2019-12-18 20:45:15] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:15 "5" 200
+INFO [2019-12-18 20:45:21] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:21 "Model does not exits" 400
+INFO [2019-12-18 20:45:26] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:26 "5" 200
+INFO [2019-12-18 20:45:26] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:26 "5" 200
+INFO [2019-12-18 20:45:26] user_test /batchpredict "PostmanRuntime/7.21.0" 2019-12-18 20:45:26 "5" 200
+INFO [2019-12-18 21:34:34] 
+INFO [2019-12-18 21:37:00] 
+INFO [2019-12-18 21:40:00] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:40:00 "5" 200
+INFO [2019-12-18 21:40:00] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:40:00 "5" 200
+INFO [2019-12-18 21:40:00] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:40:00 "5" 200
+INFO [2019-12-18 21:40:00] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:40:00 "5" 200
+INFO [2019-12-18 21:40:00] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:40:00 "5" 200
+INFO [2019-12-18 21:40:00] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:40:00 "5" 200
+INFO [2019-12-18 21:40:00] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:40:00 "5" 200
+INFO [2019-12-18 21:40:00] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:40:00 "6" 200
+INFO [2019-12-18 21:40:00] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:40:00 "5" 200
+INFO [2019-12-18 21:41:10] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:41:10 "5" 200
+INFO [2019-12-18 21:41:10] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:41:10 "5" 200
+INFO [2019-12-18 21:41:10] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:41:10 "5" 200
+INFO [2019-12-18 21:41:10] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:41:10 "6" 200
+INFO [2019-12-18 21:41:10] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:41:10 "5" 200
+INFO [2019-12-18 21:41:10] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:41:10 "5" 200
+INFO [2019-12-18 21:41:10] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:41:10 "5" 200
+INFO [2019-12-18 21:41:10] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:41:10 "7" 200
+INFO [2019-12-18 21:41:10] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:41:10 "7" 200
+INFO [2019-12-18 21:44:46] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:44:46 "5" 200
+INFO [2019-12-18 21:44:46] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:44:46 "5" 200
+INFO [2019-12-18 21:44:46] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:44:46 "5" 200
+INFO [2019-12-18 21:44:46] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:44:46 "6" 200
+INFO [2019-12-18 21:44:46] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:44:46 "5" 200
+INFO [2019-12-18 21:44:46] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:44:46 "5" 200
+INFO [2019-12-18 21:44:46] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:44:46 "5" 200
+INFO [2019-12-18 21:44:46] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:44:46 "7" 200
+INFO [2019-12-18 21:44:46] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 21:44:46 "7" 200
+INFO [2019-12-18 21:45:43] 
+INFO [2019-12-18 21:58:21] 
+INFO [2019-12-18 22:02:39] 
+INFO [2019-12-18 22:04:28] 
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "FALSE" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "c(1, 0)" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "c(0, 1)" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "c(-Inf, Inf)" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "<" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "5" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "c(5, 5, 5, 5, 5, 5)" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "function (thresholds, controls, cases, direction) 
+{
+    ncontrols <- length(controls)
+    ncases <- length(cases)
+    predictor <- c(controls, cases)
+    response <- c(rep(0, length(controls)), rep(1, length(cases)))
+    decr <- direction == "<"
+    predictor.order <- order(predictor, decreasing = decr)
+    predictor.sorted <- predictor[predictor.order]
+    response.sorted <- response[predictor.order]
+    tp <- cumsum(response.sorted == 1)
+    fp <- cumsum(response.sorted == 0)
+    se <- tp/ncases
+    sp <- (ncontrols - fp)/ncontrols
+    dups.pred <- rev(duplicated(rev(predictor.sorted)))
+    dups.sesp <- duplicated(se) & duplicated(sp)
+    dups <- dups.pred | dups.sesp
+    if (sum(!dups) != length(thresholds) - 1) {
+        sessionInfo <- sessionInfo()
+        save(thresholds, controls, cases, direction, sessionInfo, file = "pROC_bug.RData")
+        stop(sprintf("pROC: fast algorithm computed an incorrect number of sensitivities and specificities. Diagnostic data saved in pROC_bug.RData. Please report this bug to <%s>.", utils::packageDescription("pROC")$BugReports))
+    }
+    if (direction == "<") {
+        se <- rev(c(0, se[!dups]))
+        sp <- rev(c(1, sp[!dups]))
+    }
+    else {
+        se <- c(0, se[!dups])
+        sp <- c(1, sp[!dups])
+    }
+    return(list(se = se, sp = sp))
+}" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "0.5" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "roc.default(response = testdata$quality, predictor = predictions)" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "c(5, 5, 5, 5, 5, 5, 5, 6, 5)" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "c(5, 5, 5, 6, 5, 5, 5, 7, 7)" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "c(5, 5, 5, 5, 5, 5, 5)" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "c(5, 5, 5, 6, 5, 5, 5)" 200
+INFO [2019-12-18 22:14:25] user_test /modelperformance "PostmanRuntime/7.21.0" 2019-12-18 22:14:25 "c("5", "6")" 200
