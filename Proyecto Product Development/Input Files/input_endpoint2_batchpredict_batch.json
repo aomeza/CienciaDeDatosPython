@@ -1,0 +1,45 @@
+{
+"model": 2,
+"username": "user_test",
+"batchdata": [
+{
+"alcohol":1,
+"sulphates":1,
+"pH":1,
+"density":1,
+"total_sulfur_dioxide":1,
+"free_sulfur_dioxide":1,
+"chlorides":1,
+"residual_sugar":1,
+"citric_acid":1,
+"volatile_acidity":1,
+"fixed_acidity":1
+},
+{
+"alcohol":1,
+"sulphates":1.1,
+"pH":1,
+"density":1,
+"total_sulfur_dioxide":1,
+"free_sulfur_dioxide":1,
+"chlorides":1,
+"residual_sugar":1,
+"citric_acid":1,
+"volatile_acidity":1,
+"fixed_acidity":1
+},
+{
+"alcohol":1,
+"sulphates":1,
+"pH":1,
+"density":1,
+"total_sulfur_dioxide":1,
+"free_sulfur_dioxide":1,
+"chlorides":1,
+"residual_sugar":1,
+"citric_acid":1,
+"volatile_acidity":1,
+"fixed_acidity":1
+}
+]
+}
